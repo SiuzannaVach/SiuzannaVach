@@ -10,5 +10,5 @@
 * **Tools:** Git | GitHub | VS Code
 
 ### 📫 Connect with me
-* **LinkedIn:** www.linkedin.com/in/siuzanna-vachaganian
-* **Email:** siuzannavachaganian@gmail.com
+* **LinkedIn:** www.linkedin.com/in/siuzannavach
+* **Email:** siuzannavach@gmail.com
