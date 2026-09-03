@@ -1,8 +1,7 @@
 # Hi there! I'm Siuzanna 👋
 
 ### 🎓 About Me
-* 🚀 Active student at the **Full Stack Web Development Bootcamp** inside [FemCoders-BCN](https://github.com) organization!
-* 💡 Passionate about creating visually stunning, responsive, and interactive web applications.
+* I’m a No-BS Junior Full-Stack Developer (Java / React). For me, work is work — I keep it strictly professional, logical, and drama-free. Ready to push clean code, learn fast, and deliver real results from day one.
 * 📍 Based in Barcelona, Spain.
 
 ### 🛠️ Tech Stack I'm Learning
