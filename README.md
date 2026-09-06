@@ -10,6 +10,8 @@
 
 ## 📬 Connect with me
 
-<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a> <a href="mailto:siuzannavach@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:siuzannavach@gmail.com)
+
 
 
