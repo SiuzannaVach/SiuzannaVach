@@ -8,13 +8,6 @@
 * **Frontend:** HTML5 | CSS3 | JavaScript | TypeScript | React
 * **Tools:** Git | GitHub | VS Code
 
-* ## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://vercel.app" alt="Top Langs" />
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
-
 
 ## 📬 Connect with me
 
