@@ -10,8 +10,9 @@
 
 ## 📬 Connect with me
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:siuzannavach@gmail.com)
+* **LinkedIn:** [linkedin.com/in/siuzannavach](https://linkedin.com)
+* **Email:** [siuzannavach@gmail.com](mailto:siuzannavach@gmail.com)
+
 
 
 
