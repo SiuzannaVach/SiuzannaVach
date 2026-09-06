@@ -10,7 +10,9 @@
 
 ## 📬 Connect with me
 
-[<kbd>⪧ LinkedIn</kbd>](https://linkedin.com) &nbsp; [<kbd>✉ Email</kbd>](mailto:siuzannavach@gmail.com)
+* **LinkedIn:** [linkedin.com/in/siuzannavach](https://linkedin.com)
+* **Email:** [siuzannavach@gmail.com](mailto:siuzannavach@gmail.com)
+
 
 
 
