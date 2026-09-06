@@ -8,6 +8,7 @@
 * **Frontend:** HTML5 | CSS3 | JavaScript | TypeScript | React
 * **Tools:** Git | GitHub | VS Code
 
-### 📫 Connect with me
-* **LinkedIn:** www.linkedin.com/in/siuzannavach
-* **Email:** siuzannavach@gmail.com
+## 📬 Connect with me
+
+<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>  <a href="mailto:siuzannavach@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+
