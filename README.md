@@ -11,7 +11,8 @@
 - **Tools:** Git | GitHub | VS Code | Postman
 
 ### 📫 Connect with me
-- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- **LinkedIn:** https://linkedin.com
+
 - **Email:** siuzannavach@gmail.com
 
 
