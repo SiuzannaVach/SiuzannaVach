@@ -7,7 +7,7 @@
 
 ### 🛠 Tech Stack
 - **Frontend:** HTML5 | CSS3 | Tailwind CSS | JavaScript (ES6+) | TypeScript | React | Vite
-- **Backend & Databases:** Java | Spring Boot | REST APIs | SQL *(оставьте только то, что реально трогали)*
+- **Backend & Databases:** Java | Spring Boot | REST APIs | SQL 
 - **Tools:** Git | GitHub | VS Code | Postman
 
 ### 📫 Connect with me
