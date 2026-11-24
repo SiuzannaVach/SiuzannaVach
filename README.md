@@ -1,18 +1,18 @@
-# Hi there! I'm Siuzanna 👋
+## Hi there! I'm Siuzanna 👋
 
-### 🎓 About Me
-* I’m a No-BS Junior Full-Stack Developer (Java / React). For me, work is work — I keep it strictly professional, logical, and drama-free. Ready to push clean code, learn fast, and deliver real results from day one.
-* 📍 Based in Barcelona, Spain.
+### 👩‍💻 About Me
+- Results-driven Junior Full-Stack Developer (**Java / React**) who values clean code, logical problem-solving, and clear communication.
+- Fast learner focused on building reliable, user-friendly web applications and delivering real value from day one.
+- 📍 Based in Barcelona, Spain | Open to Frontend & Full-Stack roles.
 
-### 🛠️ Tech Stack I'm Learning
-* **Frontend:** HTML5 | CSS3 | JavaScript | TypeScript | React
-* **Tools:** Git | GitHub | VS Code
+### 🛠 Tech Stack
+- **Frontend:** HTML5 | CSS3 | Tailwind CSS | JavaScript (ES6+) | TypeScript | React | Vite
+- **Backend & Databases:** Java | Spring Boot | REST APIs | SQL *(оставьте только то, что реально трогали)*
+- **Tools:** Git | GitHub | VS Code | Postman
 
-
-## 📬 Connect with me
-
-* **LinkedIn:** [linkedin.com/in/siuzannavach](https://linkedin.com)
-* **Email:** [siuzannavach@gmail.com](mailto:siuzannavach@gmail.com)
+### 📫 Connect with me
+- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- **Email:** siuzannavach@gmail.com
 
 
 
